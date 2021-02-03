@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tuten/static/css/main.e5df5c13.chunk.css",
+    "main.js": "/tuten/static/js/main.83b48704.chunk.js",
+    "main.js.map": "/tuten/static/js/main.83b48704.chunk.js.map",
+    "runtime-main.js": "/tuten/static/js/runtime-main.b5e2c01e.js",
+    "runtime-main.js.map": "/tuten/static/js/runtime-main.b5e2c01e.js.map",
+    "static/js/2.f4651c28.chunk.js": "/tuten/static/js/2.f4651c28.chunk.js",
+    "static/js/2.f4651c28.chunk.js.map": "/tuten/static/js/2.f4651c28.chunk.js.map",
+    "static/js/3.6984f134.chunk.js": "/tuten/static/js/3.6984f134.chunk.js",
+    "static/js/3.6984f134.chunk.js.map": "/tuten/static/js/3.6984f134.chunk.js.map",
+    "index.html": "/tuten/index.html",
+    "static/css/main.e5df5c13.chunk.css.map": "/tuten/static/css/main.e5df5c13.chunk.css.map",
+    "static/js/2.f4651c28.chunk.js.LICENSE.txt": "/tuten/static/js/2.f4651c28.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tuten/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5e2c01e.js",
+    "static/js/2.f4651c28.chunk.js",
+    "static/css/main.e5df5c13.chunk.css",
+    "static/js/main.83b48704.chunk.js"
+  ]
+}
